@@ -9,7 +9,7 @@ This project presents an **Inventory Performance Dashboard** designed to monitor
 
 The goal is to analyze inventory data and answer key business questions that help optimize procurement and stock management.
 
-### **Key KPIs**  fileciteturn0file0
+### **Key KPIs**  
 - Total Products  
 - Items Below Reorder Level  
 - Total Stock Value (CurrentStock × UnitPrice)  
@@ -17,7 +17,7 @@ The goal is to analyze inventory data and answer key business questions that hel
 - Average Reorder Level  
 - Top Low‑Stock Products  
 
-### **Business Questions / Problems to Solve**  fileciteturn0file0
+### **Business Questions / Problems to Solve**  
 - Which products are below their reorder level?  
 - Which category has the most low‑stock products?  
 - Which suppliers deliver the most products?  
